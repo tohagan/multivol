@@ -7,7 +7,7 @@ This app is really just a bit of nostalgia and reminisce from my days as a syste
 
 **Who knows maybe one day my children or theirs will stuble on it :)** ... *Hi - Glad you found it!* 
 
-## My Early computer days. 
+## My early computing days. 
 
 This week my 9 year old son asked me to teach him Python so he could code 3D games in Blender. He also just published his first 40 videos on YouTube. Amazing!  As I was typing this he just dropped into my office and asked I could update his Blender software to the latest version. He's starting on a different planet to where I began my coding journey.
 
