@@ -1,53 +1,6 @@
 # Default, in case core.autocrlf is not set
 * text=auto
 
-# Custom for Visual Studio
-*.cs     diff=csharp
-*.sln    merge=union
-*.csproj merge=union
-*.vbproj merge=union
-*.fsproj merge=union
-*.dbproj merge=union
-
-# Standard to msysgit
-*.doc	 diff=astextplain
-*.DOC	 diff=astextplain
-*.docx diff=astextplain
-*.DOCX diff=astextplain
-*.dot  diff=astextplain
-*.DOT  diff=astextplain
-*.pdf  diff=astextplain
-*.PDF	 diff=astextplain
-*.rtf	 diff=astextplain
-*.RTF	 diff=astextplain
-
-*.cs     text diff=csharp
-*.java   text diff=java
-*.js text eol=crlf
-*.rb text
-*.sql text
-*.html   text diff=html
-*.cshtml text diff=html
-*.asax text
-*.config text
-
-*.css text
-*.scss text
-*.xml text
-*.txt text
-
-*.csproj text merge=union
-*.sln    text merge=union eol=crlf
-
-*.png binary
-*.jpg binary
-*.gif binary
-*.ico binary
-
-*.zip binary
-*.gz bainry
-*.7z binary
-
-*.exe	binary
-*.dll	binary
-*.def	binary
+*.c     text eol=lf
+*.h     text eol=lf
+*.doc   text eol=lf
