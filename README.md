@@ -7,17 +7,19 @@ This app is really just a bit of nostalgia and reminisce from my days as a syste
 
 **Who knows maybe one day my children or theirs will stuble on it :)** ... *Hi - Glad you found it!* 
 
-## Family
+## My Early computer days. 
 
-This week my 9 year old son asked me to teach him Python so he could code 3D games in Blender. He also just published his first 40 videos on YouTube. Amazing!  As I was typing this he just dropped into my office and asked I could update his version of Blender.
+This week my 9 year old son asked me to teach him Python so he could code 3D games in Blender. He also just published his first 40 videos on YouTube. Amazing!  As I was typing this he just dropped into my office and asked I could update his Blender software to the latest version. He's starting on a different planet to where I began my coding journey.
 
-## History
+One of the first computer I used was owned by the Business School at Queensland University of Technology. It had 16kb of iron core memory and 30 character per second teletype which could also read and punch tape. The computer boasted a high speed optical paper tape reader. 
 
-In 1982 I had just graduated and took my first full-time job at the Queensland Electricity Generating Board (QEGB) which is now Energex.  
+## My first and second full time jobs. 
+
+In 1982 I had just graduated and took my first full-time job as a trainee programmer at the Queensland Electricity Generating Board (QEGB) which is now Energex. Most of the time I wrote and maintained Fortran for engineers and then eventually served my country writing COBOL for 3 months (which I loathed).
   
-In 1984 I was swotting up on this new thing called "Unix" and reading Dennis Ritchie's "The C Programming Language" with zeal. In 1985 I departed from my goverment job to work as a system programmer back at the computer science department at the University of Queensland where I had completed by Science degree.
+In 1984 I began swotting up on this new thing called "Unix" and reading Dennis Ritchie's "The C Programming Language" with zeal. In 1985 I departed from my QEGB job to work as a system programmer back at the computer science department at the University of Queensland where I had completed by Science degree.
 
-Some from my old job though me foolish to be departing from their safe mainframes to take up this "unproven" new platform called Unix. *"It will never be used commercially"* they told me ...  *"It's too insecure!"*. But I has learned that I could code in one line of shell script what took me hours on the ICL 2900 mainframe and I figured that in time it's weaknesses would be fixed. As it turned out, the UQ computer science department was also one of the places in town to be to part of the early Internet as at that time only academic and research institutions were permitted access. In 1985 there were just 2,000 computers online. Within four years there would be 200,000.  I think my change of job was a good call!
+Some from my old job thought me foolish to be departing from their safe mainframes to take up this "unproven" new platform called Unix. *"It will never be used commercially"* they told me ...  *"It's too insecure!"*. But I had learned that I could code in one line of shell script what took me hours on the ICL 2900 mainframe and I figured that in time it's weaknesses would be fixed. As it turned out, the UQ computer science department was also one of the best places in town to be part of the early Internet as at that time only academic and research institutions were permitted access. In 1985 there were just 2,000 computers online. Within four years there would be 200,000.  I think my change of job was a good call!  I chuckle sometimes thinking that the early shell script language and even then the "vi" text editor that I learned all those years ago I'm still using today on modern Macs, Windows and Linux. 
 
 Multivol was probably my first software project on Unix. I tested it on floppy disks, reel to reel tapes and hard disk drums so we could backup and restore onto any removeable media.  We also tested it on multiple versions of Unix including Berkley 4.3 and System 5. We mainly used it on the Perkin Elmer  
 
