@@ -11,7 +11,7 @@ This app is really just a bit of nostalgia and reminisce from my days as a syste
 
 This week my 9 year old son asked me to teach him Python so he could code 3D games in Blender. He also just published his first 40 videos on YouTube. Amazing!  As I was typing this he just dropped into my office and asked I could update his Blender software to the latest version. He's starting on a different planet to where I began my coding journey.
 
-One of the first computer I used was owned by the Business School at Queensland University of Technology. It had 16kb of iron core memory and 30 character per second teletype which could also read and punch tape. The computer boasted a high speed optical paper tape reader. 
+One of the first computer I used while still at school was owned by the Business School at Queensland University of Technology (1976/77). It had 16kb of iron core memory and 30 character per second teletype which could also read and punch tape. The computer boasted a high speed optical paper tape reader. Years later I taught at QUT (1988-1990) but was sad to discover this historic old computer had been tossed out just a couple of years before.
 
 ## My first and second full time jobs. 
 
@@ -34,7 +34,3 @@ I also wrote my first distributed application that installed and configured disk
 One year one of the lecturers decided to run a competition for the honors students to break the security of our Berkely Unix system. This was conducted on approval from the systems programmer team. The deal was that they had to create a file owned by them in a directory they did not have access to. They then had to subsequently document their method and reveal it to the systems programmers so we could fix it (we had full source code for the Berkley Unix and making fixes was encouraged). One student figured that he didn't know that much about Unix and so he decided to solve the problem a different way. So he approached one of the systems programmers and offered for some commensurate fee that he assist him in creating the required file ... so I greed!  I didn't take any money but  figured that he'd solved the problem :) .
 
 On another occaison, one of our operators was using `multivol` to perform an incremental daily backup. Normally this would be a small backup set that would happly fit on one tape but this day multivol requested 17 tapes!! The reason? One enterprising student thought he'd show off to his fellow students how he'd managed to exceed his disk quota by a massive margin. To do this he wrote a small C app that performed a "seek()" call to an large offset in the file and then wrote a single block.  The resulting file was huge in size but due to the way that Unix stores files it was tiny in the actual number of blocks consumed (hence he'd not exceed his disk quota). 
-
-
-
-
