@@ -9,7 +9,7 @@ This app is really just a bit of nostalgia and reminisce from my days as a syste
 
 ## My early computing days. 
 
-This week my 9 year old son asked me to teach him Python so he could code 3D games in Blender. He also just published his first 40 videos on YouTube. Amazing!  As I was typing this he just dropped into my office and asked I could update his Blender software to the latest version. He's starting on a different planet to where I began my coding journey.
+This week my 9 year old son asked me to teach him Python so he could code 3D games in Blender. He also just published his first 40 videos on YouTube. Amazing!  As I was typing this he just dropped into my office and asked if I could update his Blender software to the latest version. He's starting on a different planet to where I began my coding journey.
 
 One of the first computer I used while still at school was owned by the Business School at Queensland University of Technology (1976/77). It had 16kb of iron core memory and 30 character per second teletype which could also read and punch tape. The computer boasted a high speed optical paper tape reader. Years later I taught at QUT (1988-1990) but was sad to discover this historic old computer had been tossed out just a couple of years before.
 
